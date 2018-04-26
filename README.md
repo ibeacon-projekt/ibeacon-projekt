@@ -1,17 +1,17 @@
-# iBeacon Projekt
+﻿# iBeacon Projekt
 Learning session im Modul eCommerce 2018 an der Uni Jena
 
 ## Ablauf
 * Einführung: Was sind iBeacons
 * Usecases
 * Hands on (node.js /socket.io)
-* Lernerfolgskontrolle
+* Lernerfolgskontrolle ( via [menti] https://www.menti.com/ )
 
 ## Deadlines
-* 29.5. 14:00 Uhr . Learning session (45 Minuten)
+* 29.5. 14:00 Uhr - Learning session (45 Minuten)
 
 ## Meetings
-t.b.a.
+* 03.5. 12:00 Uhr s.t. - Erstes Brainstorming (direkt nach der eCommerce VL)
 
-##TODOs
+## TODOs
 t.b.a.
