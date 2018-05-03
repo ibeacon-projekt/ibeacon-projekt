@@ -1,5 +1,5 @@
 ﻿# iBeacon Projekt
-Learning session for the module eCommerce 2018 at Uni Jena
+Learning session for the module eCommerce 2018 at Uni Jena.
 
 ![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
 
