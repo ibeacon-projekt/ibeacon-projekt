@@ -37,7 +37,7 @@ Learning session for the module eCommerce 2018 at Uni Jena
 
 * differences RFID -> BLE -> GPS
 
-* maybe a small gap text?)
+* maybe a small gap text?
 
 ## Deadlines
 * 29.5. 14:00 Uhr - Learning session (45 Minuten)
