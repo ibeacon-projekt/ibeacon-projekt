@@ -3,7 +3,7 @@ Learning session for the module eCommerce 2018 at Uni Jena
 
 ![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
 
-##Session will be in english!
+## Let's do the session in english!
 
 ## Road map
 1. Introduction: What are Beacons
