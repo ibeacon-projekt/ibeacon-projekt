@@ -3,11 +3,11 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 
 ![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
 
-## Let's do the session in english!
-
 ## Road map
 
 ### Introduction: What are Beacons
+
+![Intro](1_Einstieg.png)
 
 * no classic presentation, let the students try the beacons live (Tobias will bring 4-5 beacons with him. they have different form factors...) with their smart phones
 
@@ -19,15 +19,24 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 
 * short group work (brain storming) for the students by row. 
 
+![Brainstorming](2_Brainstorming_Use_Cases.png)
+
 * Question: What use cases can you imagine after you have seen what a beacon is? (5-10 Minutes)
 
 * Gather results on a flipchart, add our (common) solutions, give further feedback/comments to the suggested solutions
 
+* Infos about own real world project
+
+![Beacon-Tracking](3_Real-World-Projekt.png)
+![Beacon-Tracking](4_Outcome-Projekt.png)
+
+* node.js and socket.io was used for the beacon tracking project. --> Facts.
+
 ### Hands on (node.js /socket.io)
 
-* node.js and socket.io was used by tobias for a real world beacon project. First he'll tell the students about it.
+![Beacon-Tracking-Outcome](5_Handson_Node.png)
 
-* He will bring along a raspberry pi and will work out a interactive learning session to give the students an idea about socket.io
+* raspberry pi interactive learning session to give the students an idea about node.js and socket.io
 
 ### What did we learn / Take home messages ( via [Menti](https://www.menti.com/) )
 
@@ -37,7 +46,7 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 
 * differences RFID -> BLE -> GPS
 
-* maybe a small gap text?
+* gap text?
 
 ## Deadlines
 * 29.5. 14:00 Uhr - Learning session (45 Minuten)
