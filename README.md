@@ -53,10 +53,8 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 
 ## Meetings
 * ~~03.5. 12:00 Uhr s.t. - Erstes Brainstorming (direkt nach der eCommerce VL)~~
-
-### not confirmed yet
 * 17.5. 12:00 Uhr
-* 22.5. 12:00 Uhr
+* 22.5. 16:00 Uhr
 * 24.5. 12:00 Uhr
 
 ## TODOs
