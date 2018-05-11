@@ -4,9 +4,9 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 ![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
 
 ## Road map
-15 Minuten Beacon Vorstellung von uns.
-15 Minuten Brainstorming in den Gruppen
-20 Minuten Kurze Vorstellung je Gruppe (2,5 Minuten * 8 Gruppen) 
+* 15 Minuten Beacon Vorstellung von uns.
+* 15 Minuten Brainstorming in den Gruppen
+* 20 Minuten Kurze Vorstellung je Gruppe (2,5 Minuten * 8 Gruppen) 
 
 ### Introduction: What are Beacons
 
