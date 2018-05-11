@@ -4,20 +4,33 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 ![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
 
 ## Road map
+15 Minuten Beacon Vorstellung von uns.
+15 Minuten Brainstorming in den Gruppen
+20 Minuten Kurze Vorstellung je Gruppe (2,5 Minuten * 8 Gruppen) 
 
 ### Introduction: What are Beacons
 
 ![Intro](1_Einstieg.png)
 
-* no classic presentation, let the students try the beacons live (Tobias will bring 4-5 beacons with him. they have different form factors...) with their smart phones
-
-* provide a QR code with a link to a beaon finder app (for android and iOS)
-
-* technical infomartion via flip chart ( see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o) )
+* see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o) )
 
 ### Use cases
 
-* short group work (brain storming) for the students by row. 
+* brain storming - Wie könnten Beacons in Unternehmen / Organisation X eingesetzt werden? Bitte ein Konkretes Beispiel!
+Budget im Zweifelsfall gegeben...
+
+1: GötheGalerie
+2: ThluB
+3: Lufthansa
+4: Deutsche Post
+5: Uni Jena
+6: 
+7: 
+8:
+
+Jede Reihe eine Gruppe 1-8
+
+Editiert hier das Markdown File.
 
 ![Brainstorming](2_Brainstorming_Use_Cases.png)
 
