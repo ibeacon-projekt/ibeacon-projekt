@@ -33,17 +33,17 @@ _Folgende personelle Einteilung:_ Vortragender ist der ganz rechts sitzende. Git
 
 1: Welches Beacon Produkt bietet Asandoo an?
 
-2: 
+2: Was ist Bluejacking?
 
-3: Welches Beacon Produkt bietet Barcoo an?
+3: Wie steht es mit Datensicherheit und Beacons
 
-4: 
+4: Wie können Beacons in Supermärkten eingesetzt werden?
 
-5: 
+5: Wie können Beacons in der Tourismusbranche genutzt werden?
 
 6: Welches Beacon Produkt bietet Airfy an?
 
-7: 
+7: Welches Beacon Produkt bietet Barcoo an?
 
 8:  (bekommt es wie bei Marek extra dicke!)
 
