@@ -1,4 +1,4 @@
-
+﻿
 # iBeacon Projekt
 
 Learning session for the module eCommerce 2018 at Uni Jena.
@@ -49,14 +49,14 @@ IKEA Video?
 
 * Infos über mein reales BLE Projekt
 
-![Beacon-Tracking](3_Real-World-Projekt.png)
-![Beacon-Tracking](4_Outcome-Projekt.png)
+![Beacon-Tracking 1](Bilder/3_Real-World-Projekt.png)
+![Beacon-Tracking 2](Bilder/4_Outcome-Projekt.png)
 
 * node.js and socket.io was used for the beacon tracking project. --> Facts.
 
 ### node.js /socket.io
 
-![Beacon-Tracking-Outcome](5_Handson_Node.png)
+![Beacon-Tracking-Outcome](Bilder/5_Handson_Node.png)
 
 * raspberry pi interactive learning session to give the students an idea about node.js and socket.io
 
