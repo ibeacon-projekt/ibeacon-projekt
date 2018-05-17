@@ -7,7 +7,7 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 ## Road map
 * 10 Minuten Beacon Vorstellung von uns. (Theo)
 * 10 Minuten Brainstorming in den Gruppen (Jann)
-* 10 Minuten Kurze Vorstellung je Gruppe
+* 10 Minuten Kurze Vorstellung der Gruppen
 * 10 Minuten use case (Tobias)
 * 5 Minuten Take away / Fazit (Jann)
 
