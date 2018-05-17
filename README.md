@@ -61,6 +61,11 @@ IKEA Video?
 
 via [Menti](https://www.menti.com/)
 
+* Was ist die richtige deutsche Übersetzung von Beacon?
+
+A) Schinken
+B) Leuchtturm
+
 ## Deadlines
 * 29.5. 14:00 Uhr - Learning session (45 Minuten)
 
