@@ -10,7 +10,9 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 * 10 Minuten use case (Tobias)
 * 5 Minuten Take away / Fazit (Jann)
 
-## Beacon Vorstellung:
+## Beacon Vorstellung
+
+![Intro](1_Einstieg.png)
 
 * Beacon vs. iBeacon vs. eBeacon
 
@@ -22,27 +24,21 @@ Beacon:
 
 see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o)
 
-** use case
+## Brain storming
 
-![Intro](1_Einstieg.png)
+Bitte bearbeitet in den nächsten 10 Minuten folgende Fragestellungen in den Gruppen pro Reihe.
+Jede Reihe eine Gruppe 1-8.
 
-
-## Use cases
-
-* brain storming - Wie könnten Beacons in Unternehmen / Organisation X eingesetzt werden? Bitte ein Konkretes Beispiel!
-
-Budget im Zweifelsfall gegeben...
-
-1: GötheGalerie
-2: ThluB
-3: Lufthansa
-4: Deutsche Post
-5: Uni Jena
+1: Welches Beacon Produkt bietet Asandoo an?
+2: Welches Beacon Produkt bietet Airfy an?
+3: Welches Beacon Produkt bietet Barcoo an?
+4: 
+5: 
 6: 
 7: 
-8:
+8:  (bekommt es wie bei Marek extra dicke!)
 
-Jede Reihe eine Gruppe 1-8
+
 
 Editiert hier das Markdown File.
 
