@@ -5,13 +5,26 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 ![Beacon Einstieg](https://upload.wikimedia.org/wikipedia/commons/3/37/John_Lynn_-_Smeaton%27s_Eddystone_Lighthouse.jpg)
 
 ## Road map
-* 10 Minuten [Things you need to know about Beacons] (Theo)
+* 10 Minuten Things you need to know about Beacons (Theo)
 * 10 Minuten Brainstorming in den Gruppen (Jann)
 * 10 Minuten Kurze Vorstellung der Gruppen
 * 10 Minuten use case (Tobias)
 * 5 Minuten Take away / Fazit (Jann)
 
+## Things you need to know about Beacons
+
+![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
+
+![Intro](1_Einstieg.png)
+
+* Beacon vs. iBeacon vs. eBeacon
+
+* Things you need to know about Beacons
+
+see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o)
+
 ## Brain storming
+
 Bitte bearbeitet in den nächsten 10 Minuten folgende Fragestellungen in den Gruppen pro Reihe.
 
 Jede Reihe eine Gruppe 1-8.
