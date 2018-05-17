@@ -31,13 +31,13 @@ Bitte bearbeitet in den nächsten 10 Minuten folgende Fragestellungen in den Gru
 
 Jede Reihe eine Gruppe 1-8.
 
-Folgende personelle Einteilung: Vortragender ist der ganz rechts sitzende. GitHub-Editor ist der ganz links sitzende. Die Personen in der Mitte haben beratende Funktion.
+_Folgende personelle Einteilung:_ Vortragender ist der ganz rechts sitzende. GitHub-Editor ist der ganz links sitzende. Die Personen in der Mitte haben beratende Funktion.
 
-
+### Fragen
 
 1: Welches Beacon Produkt bietet Asandoo an?
 
-2: Welches Beacon Produkt bietet Airfy an?
+2: 
 
 3: Welches Beacon Produkt bietet Barcoo an?
 
@@ -45,7 +45,7 @@ Folgende personelle Einteilung: Vortragender ist der ganz rechts sitzende. GitHu
 
 5: 
 
-6: 
+6: Welches Beacon Produkt bietet Airfy an?
 
 7: 
 
@@ -53,11 +53,9 @@ Folgende personelle Einteilung: Vortragender ist der ganz rechts sitzende. GitHu
 
 Editiert hier das Markdown File.
 
+## use case
+
 ![Brainstorming](2_Brainstorming_Use_Cases.png)
-
-* Question: What use cases can you imagine after you have seen what a beacon is? (5-10 Minutes)
-
-* Gather results on a flipchart, add our (common) solutions, give further feedback/comments to the suggested solutions
 
 * Infos about own real world project
 
@@ -66,21 +64,15 @@ Editiert hier das Markdown File.
 
 * node.js and socket.io was used for the beacon tracking project. --> Facts.
 
-### Hands on (node.js /socket.io)
+### node.js /socket.io
 
 ![Beacon-Tracking-Outcome](5_Handson_Node.png)
 
 * raspberry pi interactive learning session to give the students an idea about node.js and socket.io
 
-### What did we learn / Take home messages ( via [Menti](https://www.menti.com/) )
+### What did we learn / Take home messages 
 
-* max. 5 questions as this is the free menti account limit
-
-### provide handout
-
-* differences RFID -> BLE -> GPS
-
-* gap text?
+via [Menti](https://www.menti.com/)
 
 ## Deadlines
 * 29.5. 14:00 Uhr - Learning session (45 Minuten)
