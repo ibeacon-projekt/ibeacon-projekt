@@ -1,5 +1,8 @@
 
 # iBeacon Projekt
+
+![Beacon Einstieg](https://cdn.thingiverse.com/renders/6f/d4/5e/f4/63/d3924c9534acab9f2e0caf5bc7c17840_preview_featured.jpg)
+
 Learning session for the module eCommerce 2018 at Uni Jena.
 
 ![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
