@@ -1,7 +1,7 @@
 
 # iBeacon Projekt
 
-![Beacon Einstieg](https://cdn.thingiverse.com/renders/6f/d4/5e/f4/63/d3924c9534acab9f2e0caf5bc7c17840_preview_featured.jpg)
+![Beacon Einstieg](https://upload.wikimedia.org/wikipedia/commons/3/37/John_Lynn_-_Smeaton%27s_Eddystone_Lighthouse.jpg)
 
 Learning session for the module eCommerce 2018 at Uni Jena.
 
