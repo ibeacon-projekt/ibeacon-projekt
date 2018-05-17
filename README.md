@@ -17,10 +17,6 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 
 * Beacon vs. iBeacon vs. eBeacon
 
-iBeacon: Apple Produkt
-
-Beacon: 
-
 * Things you need to know about Beacons
 
 see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o)
