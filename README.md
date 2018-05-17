@@ -16,7 +16,7 @@ Learning session für das Modul eCommerce 2018 @ Uni Jena.
 
 ## Meetings
 * ~~03.5. 12:00 Uhr s.t. - Erstes Brainstorming (direkt nach der eCommerce VL)~~
-* ~~17.5. 12:00 Uhr~~
+* ~~17.5. 12:00 Uhr - Aufgaben verteilen, Thema weiter eingrenzen~~
 * 22.5. 16:00 Uhr - Parts zusammentragen
 * 24.5. 12:00 Uhr - Session durchspielen
 
@@ -45,7 +45,7 @@ Bitte bearbeitet in den nächsten 10 Minuten folgende Fragestellungen in den Gru
 
 Jede Reihe eine Gruppe 1-8.
 
-_Folgende personelle Einteilung:_ Vortragender ist der ganz rechts sitzende. GitHub-Editor ist der ganz links sitzende. Die Personen in der Mitte haben beratende Funktion.
+__Folgende personelle Einteilung:__ Vortragender ist der ganz rechts sitzende. GitHub-Editor ist der ganz links sitzende. Die Personen in der Mitte haben beratende Funktion.
 
 ### Fragen
 
