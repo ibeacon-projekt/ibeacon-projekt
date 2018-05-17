@@ -28,8 +28,6 @@ Jede Reihe eine Gruppe 1-8.
 
 _Folgende personelle Einteilung:_ Vortragender ist der ganz rechts sitzende. GitHub-Editor ist der ganz links sitzende. Die Personen in der Mitte haben beratende Funktion.
 
-
-
 ### Fragen
 
 * Welches Beacon Produkt bietet Asandoo an?
@@ -43,9 +41,7 @@ _Folgende personelle Einteilung:_ Vortragender ist der ganz rechts sitzende. Git
 
 ## use case
 
-![Brainstorming](2_Brainstorming_Use_Cases.png)
-
-* Infos about own real world project
+* Infos über mein reales BLE Projekt
 
 ![Beacon-Tracking](3_Real-World-Projekt.png)
 ![Beacon-Tracking](4_Outcome-Projekt.png)
