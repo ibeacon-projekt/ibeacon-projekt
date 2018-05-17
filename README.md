@@ -4,23 +4,30 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 ![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
 
 ## Road map
-* 15 Minuten Beacon Vorstellung von uns.
-** iBeacon vs. Beacon vs. eBeacon
-** Things you need to know about Beacons
+* 10 Minuten Beacon Vorstellung von uns. (Theo)
+* 10 Minuten Brainstorming in den Gruppen (Jann)
+* 10 Minuten Kurze Vorstellung je Gruppe
+* 10 Minuten use case (Tobias)
+* 5 Minuten Take away / Fazit (Jann)
+
+## Beacon Vorstellung:
+
+* Beacon vs. iBeacon vs. eBeacon
+
+iBeacon: Apple Produkt
+
+Beacon: 
+
+* Things you need to know about Beacons
 
 see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o)
 
-** 
-
-* 15 Minuten Brainstorming in den Gruppen
-* 15 Minuten Kurze Vorstellung je Gruppe (2,5 Minuten * 8 Gruppen) 
-
-### Introduction: What are Beacons
+** use case
 
 ![Intro](1_Einstieg.png)
 
 
-### Use cases
+## Use cases
 
 * brain storming - Wie könnten Beacons in Unternehmen / Organisation X eingesetzt werden? Bitte ein Konkretes Beispiel!
 
