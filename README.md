@@ -22,32 +22,24 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o)
 
 ## Brain storming
-
 Bitte bearbeitet in den nächsten 10 Minuten folgende Fragestellungen in den Gruppen pro Reihe.
 
 Jede Reihe eine Gruppe 1-8.
 
 _Folgende personelle Einteilung:_ Vortragender ist der ganz rechts sitzende. GitHub-Editor ist der ganz links sitzende. Die Personen in der Mitte haben beratende Funktion.
 
+
+
 ### Fragen
 
-1: Welches Beacon Produkt bietet Asandoo an?
-
-2: Was ist Bluejacking?
-
-3: Wie steht es mit Datensicherheit und Beacons
-
-4: Wie können Beacons in Supermärkten eingesetzt werden?
-
-5: Wie können Beacons in der Tourismusbranche genutzt werden?
-
-6: Welches Beacon Produkt bietet Airfy an?
-
-7: Welches Beacon Produkt bietet Barcoo an?
-
-8:  (bekommt es wie bei Marek extra dicke!)
-
-Editiert hier das Markdown File.
+* Welches Beacon Produkt bietet Asandoo an?
+* Was ist Bluejacking?
+* Wie steht es mit Datensicherheit und Beacons
+* Wie können Beacons in Supermärkten eingesetzt werden?
+* Wie können Beacons in der Tourismusbranche genutzt werden?
+* Welches Beacon Produkt bietet Airfy an?
+* Welches Beacon Produkt bietet Barcoo an?
+*  (bekommt es wie bei Marek extra dicke!)
 
 ## use case
 
