@@ -1,11 +1,9 @@
 
 # iBeacon Projekt
 
-![Beacon Einstieg](https://upload.wikimedia.org/wikipedia/commons/3/37/John_Lynn_-_Smeaton%27s_Eddystone_Lighthouse.jpg)
-
 Learning session for the module eCommerce 2018 at Uni Jena.
 
-![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
+![Beacon Einstieg](https://upload.wikimedia.org/wikipedia/commons/3/37/John_Lynn_-_Smeaton%27s_Eddystone_Lighthouse.jpg)
 
 ## Road map
 * 10 Minuten Beacon Vorstellung von uns. (Theo)
@@ -15,6 +13,8 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 * 5 Minuten Take away / Fazit (Jann)
 
 ## Beacon Vorstellung
+
+![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
 
 ![Intro](1_Einstieg.png)
 
