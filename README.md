@@ -5,18 +5,25 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 
 ## Road map
 * 15 Minuten Beacon Vorstellung von uns.
+** iBeacon vs. Beacon vs. eBeacon
+** Things you need to know about Beacons
+
+see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o)
+
+** 
+
 * 15 Minuten Brainstorming in den Gruppen
-* 20 Minuten Kurze Vorstellung je Gruppe (2,5 Minuten * 8 Gruppen) 
+* 15 Minuten Kurze Vorstellung je Gruppe (2,5 Minuten * 8 Gruppen) 
 
 ### Introduction: What are Beacons
 
 ![Intro](1_Einstieg.png)
 
-* see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o)
 
 ### Use cases
 
 * brain storming - Wie könnten Beacons in Unternehmen / Organisation X eingesetzt werden? Bitte ein Konkretes Beispiel!
+
 Budget im Zweifelsfall gegeben...
 
 1: GötheGalerie
