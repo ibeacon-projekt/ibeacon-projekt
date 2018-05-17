@@ -12,7 +12,7 @@ Learning session for the module eCommerce 2018 at Uni Jena.
 
 ![Intro](1_Einstieg.png)
 
-* see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o) )
+* see [YouTube video - 10 Things you need to know about Beacons](https://www.youtube.com/watch?v=L44m7otNI7o)
 
 ### Use cases
 
