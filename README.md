@@ -1,4 +1,5 @@
-﻿# iBeacon Projekt
+
+# iBeacon Projekt
 Learning session for the module eCommerce 2018 at Uni Jena.
 
 ![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
@@ -27,18 +28,28 @@ see [YouTube video - 10 Things you need to know about Beacons](https://www.youtu
 ## Brain storming
 
 Bitte bearbeitet in den nächsten 10 Minuten folgende Fragestellungen in den Gruppen pro Reihe.
+
 Jede Reihe eine Gruppe 1-8.
 
+Folgende personelle Einteilung: Vortragender ist der ganz rechts sitzende. GitHub-Editor ist der ganz links sitzende. Die Personen in der Mitte haben beratende Funktion.
+
+
+
 1: Welches Beacon Produkt bietet Asandoo an?
+
 2: Welches Beacon Produkt bietet Airfy an?
+
 3: Welches Beacon Produkt bietet Barcoo an?
+
 4: 
+
 5: 
+
 6: 
+
 7: 
+
 8:  (bekommt es wie bei Marek extra dicke!)
-
-
 
 Editiert hier das Markdown File.
 
