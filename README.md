@@ -63,9 +63,10 @@ IKEA Video?
 
 ## use case
 
-* Infos über mein reales BLE Projekt
-* Reale "Altenheim-Kette" im süddeutschen Raum
-* > 15 Standorte
+_Infos über mein reales BLE Projekt_
+
+* Kunde: "Altenheim-Kette" im süddeutschen Raum
+* mehr als 15 Standorte
 * Problem: Bewohner ( z.T. mit altersbedingten Handicaps ) "gehen verloren", d.h. ihr fernbleiben wird viel zu spät bemerkt.
 * Folge: Sehr teure Suchaktionen mit Helikopter-Einsätzen, Suchmannschaften, etc.
 * weitere Folge: schlechte Presse, Image Schäden
