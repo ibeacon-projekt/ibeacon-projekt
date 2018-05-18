@@ -64,17 +64,23 @@ IKEA Video?
 ## use case
 
 * Infos über mein reales BLE Projekt
+* Reale "Altenheim-Kette" im süddeutschen Raum
+* > 15 Standorte
+* Problem: Bewohner ( z.T. mit altersbedingten Handicaps ) "gehen verloren", d.h. ihr fernbleiben wird viel zu spät bemerkt.
+* Folge: Sehr teure Suchaktionen mit Helikopter-Einsätzen, Suchmannschaften, etc.
+* weitere Folge: schlechte Presse, Image Schäden
+* Idee: "Weiche" Eingangs-/Ausgangskontrolle via Beacons. Warnmeldung, falls Bewohner lange nicht zurück.
 
 ![Beacon-Tracking 1](Bilder/3_Real-World-Projekt.png)
 ![Beacon-Tracking 2](Bilder/4_Outcome-Projekt.png)
-
-* node.js and socket.io was used for the beacon tracking project. --> Facts.
 
 ### node.js /socket.io
 
 ![Beacon-Tracking-Outcome](Bilder/5_Handson_Node.png)
 
-* raspberry pi interactive learning session to give the students an idea about node.js and socket.io
+### use case Outcome
+
+* Kein echtes Indoor-GPS möglich (Signal zu leicht beeinflussbar)
 
 ### What did we learn / Take home messages 
 
