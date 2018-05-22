@@ -38,3 +38,4 @@ _Infos über mein reales BLE Projekt_
 * [Socket.IO Website](https://socket.io/)
 * [Understand Socket.IO Suite](http://www.programwitherik.com/socket-io-tutorial-with-node-js-and-express/)
 * [Understand RSSI](https://blog.bluetooth.com/proximity-and-rssi/)
+* [Bluetooth Advertising Howto](https://webgazer.org/update/tutorial/2016/03/16/raspberrypi-eddystone-url.html)
