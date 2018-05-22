@@ -2,13 +2,18 @@
 
 _Infos über mein reales BLE Projekt_
 
-* Kunde: "Altenheim-Kette" im süddeutschen Raum, mehr als 15 Standorte
+* __Kunde:__ "Altenheim-Kette", mehr als 15 Standorte
+
 * __Problem:__ Bewohner ( z.T. mit altersbedingten Handicaps ) "gehen verloren", d.h. ihr fernbleiben wird viel zu spät bemerkt.
+
 * __Folge:__ Sehr teure Suchaktionen mit Helikopter-Einsätzen, Suchmannschaften, etc.
+
 * __weitere Folge:__ schlechte Presse, Image Schäden
+
 * __Idee:__ "Weiche" Eingangs-/Ausgangstracking via Beacons. Warnmeldung, falls Bewohner lange nicht zurück.
 
 ![Beacon-Tracking 1](Bilder/3_Real-World-Projekt.png)
+
 ![Beacon-Tracking 2](Bilder/4_Outcome-Projekt.png)
 
 ## node.js /socket.io
@@ -17,9 +22,10 @@ _Infos über mein reales BLE Projekt_
 
 ## Use Case Outcome
 
-* Prototyp funktioniert zu 95%
+* Prototyp funktioniert zu 95% (manchmal ist das Signal zu schwach, da Beacon-Signal vom Körper gedämpft)
 * Verbesserung mittels schlauer Datenstruktur denkbar
 * Kein echtes Indoor-GPS möglich (Signal zu leicht beeinflussbar)
+* Rechtliche Rahmenbedingungen müssen vom Kunden definiert werden
 
 ## Links / Weiterführende Materialien
 
