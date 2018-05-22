@@ -21,23 +21,3 @@ IKEA Link (bzw. Video Link) einfügen.
 *  (bekommt es wie bei Marek extra dicke!)
 * In welchen Sport-Stadien werden Beacons bereits verwendet?
 * NFC vs. BLE - Äpfel mit Birnen vergleichen?
-
-## What did we learn
-
-via [Menti](https://www.menti.com/)
-
-* Was ist die richtige deutsche Übersetzung von Beacon?
-
-A) Schinken
-B) Leuchtturm
-
-* Kann ein Beacon Daten empfangen?
-
-A) Ja
-B) Nein
-
-* Die Reichweite von Beacons beträgt ungefähr...
-
-A) 10cm
-B) 5 m
-C) 1 Km
