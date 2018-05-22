@@ -3,6 +3,7 @@
 ## Gruppe 1 - Thema XY
 
 * Bullet Point
+- Bullet Point
 
 ### Subthema
 

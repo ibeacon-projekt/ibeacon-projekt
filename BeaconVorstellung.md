@@ -5,9 +5,9 @@
 
 * Was sind Beacons
 
-** Leutturm, Signal, Schiffe
+- Leutturm, Signal
 
-** Funktionsweise
+- Funktionsweise
 
 ![Intro](Bilder/1_Einstieg.png)
 
