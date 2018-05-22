@@ -22,13 +22,21 @@ _Infos über mein reales BLE Projekt_
 
 ## Beacon(Watch) Demo
 
-*GUI Demo
-http://
+* GUI
 
 * URL Broadcast
+
+Step 1 - Enably BLE Advertising:
+```
+sudo hciconfig hci0 leadv 3
+```
+
+Step 2 - Set payload:
 ```
 sudo hcitool -i hci0 cmd 0x08 0x0008 1b 02 01 06 03 03 aa fe 13 16 aa fe 10 00 03 74 6f 62 69 61 73 2d 77 65 69 73 73 08 00 00 00 00
 ```
+
+Step 3 - Check website via App
 
 ## Use Case Outcome
 
