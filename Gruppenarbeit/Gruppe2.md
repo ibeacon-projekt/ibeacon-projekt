@@ -3,13 +3,12 @@
 ## Gruppe 1 - Thema XY
 
 * Bullet Point
-
-edi
+- Bullet Point
 
 ### Subthema
 
 ### Hilfen / Links
 
-* [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
