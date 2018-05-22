@@ -20,6 +20,16 @@ _Infos über mein reales BLE Projekt_
 
 ![Beacon-Tracking-Outcome](Bilder/5_Handson_Node.png)
 
+## Beacon(Watch) Demo
+
+*GUI Demo
+http://
+
+* URL Broadcast
+```
+sudo hcitool -i hci0 cmd 0x08 0x0008 1b 02 01 06 03 03 aa fe 13 16 aa fe 10 00 03 74 6f 62 69 61 73 2d 77 65 69 73 73 08 00 00 00 00
+```
+
 ## Use Case Outcome
 
 * Prototyp funktioniert zu 95% (manchmal ist das Signal zu schwach, da Beacon-Signal vom Körper gedämpft)
@@ -29,7 +39,7 @@ _Infos über mein reales BLE Projekt_
 
 ## Links / Weiterführende Materialien
 
-* [Projekt Github Repo] https://github.com/tobiasweede/BeaconWatch
+* [Projekt Github Repo](https://github.com/tobiasweede/BeaconWatch)
 * [Reference Project](https://blog.truthlabs.com/beacon-tracking-with-node-js-and-raspberry-pi-794afa880318)
 * [NodeJS Website](https://nodejs.org/)
 * [NodeJS Example](https://www.nodebeginner.org/#hello-world)
