@@ -61,7 +61,7 @@ IKEA Video?
 * Welches Beacon Produkt bietet Barcoo an?
 *  (bekommt es wie bei Marek extra dicke!)
 
-## use case
+## Real World Use Case 
 
 _Infos über mein reales BLE Projekt_
 
@@ -78,8 +78,10 @@ _Infos über mein reales BLE Projekt_
 
 ![Beacon-Tracking-Outcome](Bilder/5_Handson_Node.png)
 
-### use case Outcome
+### Use Case Outcome
 
+* Prototyp funktioniert zu 95%
+* Verbesserung mittels schlauer Datenstruktur denkbar
 * Kein echtes Indoor-GPS möglich (Signal zu leicht beeinflussbar)
 
 ### What did we learn / Take home messages 
@@ -91,6 +93,21 @@ via [Menti](https://www.menti.com/)
 A) Schinken
 B) Leuchtturm
 
-Handout? Wirklich?
+* Kann ein Beacon Daten empfangen?
+
+A) Ja
+B) Nein
+
+* Die Reichweite von Beacons beträgt ungefähr...
+
+A) 10cm
+B) 5 m
+C) 1 Km
+
+### Handout / Take away ###
+
+![Beacon-Take-Away](Bilder/6_TakeAway.png)
+
+Mit folgendem Link könnt ihr den Text dieser Datei als PDF erstellen lassen und anschließend ausdrucken:
 
 * https://gitprint.com/ibeacon-projekt/ibeacon-projekt/blob/master/README.md
