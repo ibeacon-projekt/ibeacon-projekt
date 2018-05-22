@@ -18,6 +18,5 @@ IKEA Link (bzw. Video Link) einfügen.
 * Wie können Beacons in der Tourismusbranche genutzt werden?
 * Welches Beacon Produkt bietet Airfy an?
 * Welches Beacon Produkt bietet Barcoo an?
-*  (bekommt es wie bei Marek extra dicke!)
 * In welchen Sport-Stadien werden Beacons bereits verwendet?
 * NFC vs. BLE - Äpfel mit Birnen vergleichen?
