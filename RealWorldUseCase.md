@@ -20,9 +20,11 @@ _Infos über mein reales BLE Projekt_
 
 ![Beacon-Tracking-Outcome](Bilder/5_Handson_Node.png)
 
-## Beacon(Watch) Demo
+## BeaconWatch
 
 * GUI
+
+![Beacon-Tracking-Outcome](Bilder/5_BeaconWatch.png)
 
 * URL Broadcast
 
