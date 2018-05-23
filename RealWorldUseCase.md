@@ -24,7 +24,7 @@ _Infos über mein reales BLE Projekt_
 
 * GUI
 
-![BeaconWatch](Bilder/5_BeaconWatch.png)
+![BeaconWatch](Bilder/5_BeaconWatch.PNG)
 
 * URL Broadcast
 
