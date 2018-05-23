@@ -8,15 +8,15 @@ __Folgende personelle Einteilung:__ Vortragender ist der ganz rechts sitzende. G
 
 ## Fragen
 
-* Welches Beacon Produkt bietet Asandoo an?
-* Was ist Bluejacking?
-* Wie steht es mit Datensicherheit und Beacons
 
-IKEA Link (bzw. Video Link) einfügen.
+* 1. Wie können Beacons in einem Museum genutzt werden? http://www.ibeacontrends.com/beacons-for-museums/
 
-* Wie können Beacons in Supermärkten eingesetzt werden?
-* Wie können Beacons in der Tourismusbranche genutzt werden?
-* Welches Beacon Produkt bietet Airfy an?
-* Welches Beacon Produkt bietet Barcoo an?
-* In welchen Sport-Stadien werden Beacons bereits verwendet?
-* NFC vs. BLE - Äpfel mit Birnen vergleichen?
+* 2. Wie können Beacons in der Tourismusbranche genutzt werden? http://www.publicmarketing.eu/news/detail.php?rubric=News&nr=22918
+
+* 3. Wie können Beacons in Supermärkten eingesetzt werden? https://t3n.de/news/digital-strategie-merkur-bluetooth-beacons-797623/
+
+* 4. Wie können Beacons in Logistikunternehmen genutzt werden? http://blupassion.de/10-gruende-warum-logistikunternehmen-in-beacons-investieren-sollten/
+
+* 5. Wie können Beacons im Smart Home Bereich genutzt werden? https://www.smart-wohnen.de/haus-garten/artikel/das-smart-home-mit-erweiterungen-cleverer-machen/
+
+* 6. Datenschutz - Beacon https://www.e-commerce-magazin.de/fachartikel/beacons-und-datenschutz-das-muss-kein-widerspruch-sein
