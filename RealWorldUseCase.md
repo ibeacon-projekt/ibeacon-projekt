@@ -1,6 +1,6 @@
 # Real World Use Case 
 
-_Infos über mein reales BLE Projekt_
+_Infos über mein "reales" BLE Projekt_
 
 * __Kunde:__ "Kette von Seniorenzentren", mehr als 15 Standorte
 
