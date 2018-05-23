@@ -2,13 +2,11 @@
 
 _Infos über mein reales BLE Projekt_
 
-![RaspBerry](https://de.wikipedia.org/wiki/Raspberry_Pi#/media/File:Raspberry_Pi_2_Model_B_v1.1_top_new_(bg_cut_out).jpg)
-
-* __Kunde:__ "Altenheim-Kette", mehr als 15 Standorte
+* __Kunde:__ "Kette von Seniorenzentren", mehr als 15 Standorte
 
 * __Problem:__ Bewohner ( z.T. mit altersbedingten Handicaps ) "gehen verloren", d.h. ihr fernbleiben wird viel zu spät bemerkt.
 
-* __Folge:__ Sehr teure Suchaktionen mit Helikopter-Einsätzen, Suchmannschaften, etc.
+* __Folge:__ Sehr teure Suchaktionen mit Helikopter-Einsätzen, Suchmannschaften, etc. zur Folge.
 
 * __weitere Folge:__ schlechte Presse, Image Schäden
 
@@ -28,6 +26,8 @@ _Infos über mein reales BLE Projekt_
 
 ![BeaconWatch](Bilder/5_BeaconWatch.PNG)
 
+## URL Advertiser
+
 * URL Broadcast
 
 Step 1 - Enably BLE Advertising:
@@ -46,8 +46,16 @@ Step 3 - Check website via App
 
 * Prototyp funktioniert zu 95% (manchmal ist das Signal zu schwach, da Beacon-Signal vom Körper gedämpft)
 * Verbesserung mittels schlauer Datenstruktur denkbar
-* Kein echtes Indoor-GPS möglich (Signal zu leicht beeinflussbar)
+* Kein genaues Indoor-GPS möglich (Signal zu leicht beeinflussbar)
 * Rechtliche Rahmenbedingungen müssen vom Kunden definiert werden
+
+## Lessons learned
+
+* Die Reichweite ist klar der limitierende Faktor
+* Raspberry heutzutage für alles zu gebrauchen. Vorteil durch Standardisierung.
+* node.js als einfach Methode zum Prototypen
+* Vieles kann über Websockets abgebildet werden. Auch andere Prozesse (siehe ERP-Anbindungen, Wetterdaten, IoT, You name it).
+* Rechtliche Situation nicht ganz einfach - moralische Frage.
 
 ## Links / Weiterführende Materialien
 
