@@ -18,7 +18,7 @@ _Infos über mein reales BLE Projekt_
 
 ## node.js /socket.io
 
-![Beacon-Tracking-Outcome](Bilder/5_Handson_Node.png)
+![Beacon-Tracking-Outcome](Bilder/5_Handson_Node.PNG)
 
 ## BeaconWatch
 
