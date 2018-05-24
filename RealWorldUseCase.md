@@ -2,6 +2,8 @@
 
 _Infos über mein "reales" BLE Projekt_
 
+![Raspi](https://de.wikipedia.org/wiki/Raspberry_Pi#/media/File:Raspberry_Pi_2_Model_B_v1.1_top_new_(bg_cut_out).jpg)
+
 * __Kunde:__ "Kette von Seniorenzentren", mehr als 15 Standorte
 
 * __Problem:__ Bewohner ( z.T. mit altersbedingten Handicaps ) "gehen verloren", d.h. ihr fernbleiben wird viel zu spät bemerkt.
