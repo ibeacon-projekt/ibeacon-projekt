@@ -2,6 +2,10 @@
 
 via [Menti](https://www.menti.com/)
 
+
+
+* Menti Code 19 47 47
+
 * Was ist die richtige deutsche Übersetzung von Beacon?
 
 A) Schinken
