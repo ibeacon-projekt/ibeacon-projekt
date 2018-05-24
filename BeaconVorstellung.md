@@ -4,7 +4,7 @@
 
 Leitfrage:
 
-Stadium / Konzert - Sitzplätze finden / Verloren sein? Oder besseren Platz als einen kurzfristig gekauften schlechten Platz?
+Stadion / Konzert - Sitzplätze finden / Verloren sein? Oder besseren Platz als einen kurzfristig gekauften schlechten Platz?
 Lösung: Beacons
 
 * Was ist ein "Beacon"?
@@ -18,7 +18,7 @@ Lösung: Beacons
       Ein Beacon ist aber natürlich auch wesentlich kleiner als ein "handelsüblicher" Leuchtturm, Tobias hat ein paar seiner eigenen 
       Beacons zu Demonstrationszwecken bereitgestellt! (Rumgehen lassen der Beacons)
       
-    - Bleiben wir beim Beispiel des Stadiums, von solchen Beacons wurden beispielsweise im "Levi-Stadium" in Californien in geregelten 
+    - Bleiben wir beim Beispiel des Stadions, von solchen Beacons wurden beispielsweise im "Levi-Stadium" in Californien in geregelten 
       Abständen von ungefähr 30 Metern, insgesamt mehr als 2000 Stück angebracht.
       Wieso so viele und wozu erkläre ich anhand ihrer Funktionsweise im nächsten Schaubild.
 
@@ -49,7 +49,7 @@ Lösung: Beacons
       Diese App sendet die empfangenen Signale und damit eure Entfernung zu den einzelnen Beacons zu einem Server, der diese dann 
       verarbeitet und eure Position bestimmen kann. Ihr seht, je mehr Beacons umso genauer die Verarbeitung.
       
-      So könnt ihr nach wenigen Sekunden im Stadium direkt via App zu eurem Sitzplatz geführt werden.
+      So könnt ihr nach wenigen Sekunden im Stadion direkt via App zu eurem Sitzplatz geführt werden.
       Oder sogar zu einem anderen Hotdog-Stand, wenn bei einem anderen die Hotdogs ausgehen.
       Beacons können euch auch darauf aufmerksam machen, dass noch ein besserer Platz zur Verfügung steht der nicht weit von eurem 
       entfernt ist.
