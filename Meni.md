@@ -17,3 +17,4 @@ B) Nein
 A) 10cm
 B) 5 m
 C) 1 Km
+D) Kann mann nicht pauschal sagen
