@@ -55,7 +55,8 @@ Step 3 - Check website via App
 
 ## Lessons learned
 
-* Die Reichweite ist klar der limitierende Faktor
+* Die Reichweite und Bateriegroße sind klar die limitierenden Faktor
+* Dennoch deutlich kleiner als GPS (das eine SIM-Karte benötigt -> laufende Kosten!)
 * Raspberry heutzutage für alles zu gebrauchen. Vorteil durch Standardisierung.
 * node.js als einfach Methode zum Prototypen
 * Vieles kann über Websockets abgebildet werden. Auch andere Prozesse (siehe ERP-Anbindungen, Wetterdaten, IoT, You name it).
