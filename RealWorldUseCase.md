@@ -3,6 +3,7 @@
 _Infos über mein "reales" BLE Projekt_
 
 ![Raspi](https://upload.wikimedia.org/wikipedia/commons/3/31/Raspberry_Pi_2_Model_B_v1.1_top_new_%28bg_cut_out%29.jpg)
+![Raspi-Back](http://raspi.tv/wp-content/uploads/2016/02/Pi3B-underside-wifi_700.jpg)
 ![BLE-Chip](http://www.wirelesshack.org/wp-content/uploads/2016/03/Raspberry-Pi-3-Overview-WiFi-and-Bluetooth-chip.jpg)
 
 * __Kunde:__ "Kette von Seniorenzentren", mehr als 15 Standorte
