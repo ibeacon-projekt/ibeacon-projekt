@@ -2,7 +2,7 @@
 
 _Infos über mein "reales" BLE Projekt_
 
-![Raspi](https://de.wikipedia.org/wiki/Raspberry_Pi#/media/File:Raspberry_Pi_2_Model_B_v1.1_top_new_(bg_cut_out).jpg)
+![Raspi](https://upload.wikimedia.org/wikipedia/commons/3/31/Raspberry_Pi_2_Model_B_v1.1_top_new_%28bg_cut_out%29.jpg)
 
 * __Kunde:__ "Kette von Seniorenzentren", mehr als 15 Standorte
 
