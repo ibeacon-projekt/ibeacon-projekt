@@ -1,10 +1,6 @@
-# Real World Use Case 
+﻿# Use Case 
 
-_Infos über mein "reales" BLE Projekt_
-
-![Raspi](https://upload.wikimedia.org/wikipedia/commons/3/31/Raspberry_Pi_2_Model_B_v1.1_top_new_%28bg_cut_out%29.jpg)
-![Raspi-Back](http://raspi.tv/wp-content/uploads/2016/02/Pi3B-underside-wifi_700.jpg)
-![BLE-Chip](http://www.wirelesshack.org/wp-content/uploads/2016/03/Raspberry-Pi-3-Overview-WiFi-and-Bluetooth-chip.jpg)
+_Bericht über mein BLE Projekt_
 
 * __Kunde:__ "Kette von Seniorenzentren", mehr als 15 Standorte
 
@@ -18,6 +14,12 @@ _Infos über mein "reales" BLE Projekt_
 
 ![Beacon-Tracking 1](Bilder/3_Real-World-Projekt.png)
 
+![Raspi](https://upload.wikimedia.org/wikipedia/commons/3/31/Raspberry_Pi_2_Model_B_v1.1_top_new_%28bg_cut_out%29.jpg)
+
+![Raspi-Back](http://raspi.tv/wp-content/uploads/2016/02/Pi3B-underside-wifi_700.jpg)
+
+![BLE-Chip](http://www.wirelesshack.org/wp-content/uploads/2016/03/Raspberry-Pi-3-Overview-WiFi-and-Bluetooth-chip.jpg)
+
 ![Beacon-Tracking 2](Bilder/4_Outcome-Projekt.png)
 
 ## node.js /socket.io
@@ -29,20 +31,6 @@ _Infos über mein "reales" BLE Projekt_
 * GUI
 
 ![BeaconWatch](Bilder/5_BeaconWatch.PNG)
-
-## URL Advertiser
-
-* URL Broadcast
-
-Step 1 - Enably BLE Advertising:
-```
-sudo hciconfig hci0 leadv 3
-```
-
-Step 2 - Set payload:
-```
-sudo hcitool -i hci0 cmd 0x08 0x0008 1b 02 01 06 03 03 aa fe 13 16 aa fe 10 00 03 74 6f 62 69 61 73 2d 77 65 69 73 73 08 00 00 00 00
-```
 
 Step 3 - Check website via App
 
@@ -62,6 +50,20 @@ Step 3 - Check website via App
 * node.js als einfach Methode zum Prototypen
 * Vieles kann über Websockets abgebildet werden. Auch andere Prozesse (siehe ERP-Anbindungen, Wetterdaten, IoT, You name it).
 * Rechtliche Situation nicht ganz einfach - moralische Frage.
+
+## Falls wir noch viel Zeit haben
+
+* URL Broadcast Demo
+
+Step 1 - Enably BLE Advertising:
+```
+sudo hciconfig hci0 leadv 3
+```
+
+Step 2 - Set payload:
+```
+sudo hcitool -i hci0 cmd 0x08 0x0008 1b 02 01 06 03 03 aa fe 13 16 aa fe 10 00 03 74 6f 62 69 61 73 2d 77 65 69 73 73 08 00 00 00 00
+```
 
 ## Links / Weiterführende Materialien
 
