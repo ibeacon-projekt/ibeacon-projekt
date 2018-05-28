@@ -22,3 +22,5 @@ __Folgende personelle Einteilung:__ Vortragender ist der ganz rechts sitzende. G
 * 6. Datenschutz - Beacon https://www.e-commerce-magazin.de/fachartikel/beacons-und-datenschutz-das-muss-kein-widerspruch-sein
 
 * 7. Welchen iBeacon würdet ihr auf Amazon kaufen - Stellt die Merkmale zwischen dem teuersten und dem billigesten iBeacon auf Amazon gegenüber. https://www.amazon.de/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=iBeacon&rh=i%3Aaps%2Ck%3AiBeacon
+
+8. Welche Nachteile / Risiken besitzen Beacons https://locationinsider.de/warum-deutsche-haendler-die-beacon-technologie-nicht-brauchen/
