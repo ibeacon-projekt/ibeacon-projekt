@@ -1,6 +1,6 @@
 # iBeacon Workshop
 
-## Gruppe 1 - Stellt die Merkmale zwischen dem teuersten und dem billigesten iBeacon auf Amazon gegenüber
+## Gruppe 7 - Stellt die Merkmale zwischen dem teuersten und dem billigesten iBeacon auf Amazon gegenüber
 
 
 * Bullet Point abc
