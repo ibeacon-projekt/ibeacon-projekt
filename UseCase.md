@@ -20,8 +20,6 @@ _Bericht über mein BLE Projekt_
 
 ![BLE-Chip](http://www.wirelesshack.org/wp-content/uploads/2016/03/Raspberry-Pi-3-Overview-WiFi-and-Bluetooth-chip.jpg)
 
-![Beacon-Tracking 2](Bilder/4_Outcome-Projekt.png)
-
 ## node.js /socket.io
 
 ![Beacon-Tracking-Outcome](Bilder/5_Handson_Node.png)
@@ -32,9 +30,9 @@ _Bericht über mein BLE Projekt_
 
 ![BeaconWatch](Bilder/5_BeaconWatch.PNG)
 
-Step 3 - Check website via App
-
 ## Use Case Outcome
+
+![Beacon-Tracking 2](Bilder/4_Outcome-Projekt.png)
 
 * Prototyp funktioniert zu 95% (manchmal ist das Signal zu schwach, da Beacon-Signal vom Körper gedämpft)
 * Verbesserung mittels schlauer Datenstruktur denkbar
@@ -44,10 +42,10 @@ Step 3 - Check website via App
 
 ## Lessons learned
 
-* Die Reichweite und Bateriegroße sind klar die limitierenden Faktor
-* Dennoch deutlich kleiner als GPS (das eine SIM-Karte benötigt -> laufende Kosten!)
-* Raspberry heutzutage für alles zu gebrauchen. Vorteil durch Standardisierung.
-* node.js als einfach Methode zum Prototypen
+* Die Reichweite und Bateriegroße sind die limitierenden Faktor
+* deutlich kleiner als GPS-Sender (das eine SIM-Karte benötigt -> laufende Kosten!)
+* Raspberry gut als Plattform. Vorteil durch Standardisierung.
+* node.js + X als einfaches Framework zum Prototypen
 * Vieles kann über Websockets abgebildet werden. Auch andere Prozesse (siehe ERP-Anbindungen, Wetterdaten, IoT, You name it).
 * Rechtliche Situation nicht ganz einfach - moralische Frage.
 
