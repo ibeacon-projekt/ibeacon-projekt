@@ -52,6 +52,7 @@ Step 3 - Check website via App
 * Verbesserung mittels schlauer Datenstruktur denkbar
 * Kein genaues Indoor-GPS möglich (Signal zu leicht beeinflussbar)
 * Rechtliche Rahmenbedingungen müssen vom Kunden definiert werden
+* Bewegende (Akkubetriebene) "von der Stange" Beacons insb. ungenau!
 
 ## Lessons learned
 
