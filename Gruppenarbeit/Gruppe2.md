@@ -1,6 +1,6 @@
 # iBeacon Workshop
 
-## Gruppe 1 - Wie können Beacons in der Tourismusbranche genutzt werden?
+## Gruppe 2 - Wie können Beacons in der Tourismusbranche genutzt werden?
 
 * Bullet Point abc
 * Bullet Point xyz
