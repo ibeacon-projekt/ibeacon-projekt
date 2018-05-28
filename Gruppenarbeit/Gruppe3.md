@@ -1,14 +1,14 @@
 # iBeacon Workshop
 
-## Gruppe 1 - Thema XY
+## Gruppe 3 - Wie können Beacons in Supermärkten eingesetzt werden?
 
-* Bullet Point
-    - Bullet Point
+* Bullet Point abc
+* Bullet Point xyz
 
-### Subthema
 
 ### Hilfen / Links
 
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Infos: https://t3n.de/news/digital-strategie-merkur-bluetooth-beacons-797623/
+* Formatierung: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
