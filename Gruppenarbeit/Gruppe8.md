@@ -1,14 +1,15 @@
 # iBeacon Workshop
 
-## Gruppe 1 - Thema XY
+## Gruppe 8 - Welche Nachteile / Risiken besitzen Beacons
 
-* Bullet Point
-    - Bullet Point
 
-### Subthema
+* Bullet Point abc
+* Bullet Point xyz
+
 
 ### Hilfen / Links
 
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Infos: https://locationinsider.de/warum-deutsche-haendler-die-beacon-technologie-nicht-brauchen/
+* Formatierung: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
