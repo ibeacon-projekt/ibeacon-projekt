@@ -1,13 +1,14 @@
 # iBeacon Workshop
 
-## Gruppe 1 - Thema XY
+## Gruppe 1 - Wie können Beacons in der Tourismusbranche genutzt werden?
 
-* Bullet Point
-    - Bullet Point
+* Bullet Point abc
+* Bullet Point xyz
 
-### Subthema
 
 ### Hilfen / Links
+
+* Infos: http://www.publicmarketing.eu/news/detail.php?rubric=News&nr=22918
 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
