@@ -1,14 +1,15 @@
 # iBeacon Workshop
 
-## Gruppe 1 - Thema XY
+## Gruppe 4 - Wie können Beacons in Logistikunternehmen genutzt werden?
 
-* Bullet Point
-    - Bullet Point
+* Bullet Point abc
+* Bullet Point xyz
 
-### Subthema
 
 ### Hilfen / Links
 
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Infos: http://blupassion.de/10-gruende-warum-logistikunternehmen-in-beacons-investieren-sollten/
+* Formatierung: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
 
