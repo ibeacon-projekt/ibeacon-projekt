@@ -1,6 +1,6 @@
 # iBeacon Workshop
 
-## Gruppe 1 - Wie können Beacons in einem Museum genutzt werden?
+## Gruppe 1 - Welche Nachteile / Risiken besitzen Beacons
 
 * Bullet Point abc
 * Bullet Point xyz
@@ -8,7 +8,7 @@
 
 ### Hilfen / Links
 
-* Infos: http://www.ibeacontrends.com/beacons-for-museums/
+* Infos: https://locationinsider.de/warum-deutsche-haendler-die-beacon-technologie-nicht-brauchen/
 * Formatierung: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
