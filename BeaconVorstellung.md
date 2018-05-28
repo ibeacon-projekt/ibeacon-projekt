@@ -1,6 +1,6 @@
 ## Things you need to know about Beacons
 
-![Beacon Cover Image](https://1.bp.blogspot.com/-Hh-jLfDXFIc/VaSZggZrThI/AAAAAAAAA8g/oKxBD1bGM68/s1600/overall-graphic-070915.jpg)
+![Beacon Cover Image](https://media-cdn.tripadvisor.com/media/photo-s/0f/23/03/8c/olympiastadion-berlin.jpg)
 
 Leitfrage:
 
