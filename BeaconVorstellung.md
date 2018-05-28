@@ -1,12 +1,14 @@
 ## Things you need to know about Beacons
 
 ![Beacon Cover Image](https://media-cdn.tripadvisor.com/media/photo-s/0f/23/03/8c/olympiastadion-berlin.jpg)
-
+____
+____
 ____
 ____
 
 ![Stadion2](Bilder/1_1Einstiegseat.PNG)
-
+____
+____
 ____
 ____
 
