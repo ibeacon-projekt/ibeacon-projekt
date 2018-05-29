@@ -2,8 +2,12 @@
 
 ## Gruppe 3 - Wie können Beacons in Supermärkten eingesetzt werden?
 
-* Bullet Point abc
-* Bullet Point xyz
+* Lieferanten stärker einbinden 
+* Besucherströme analysieren / navigieren (Kunden zum Produkt führen)
+* Kundenbindung stärken (Gutscheine, Push up Nachricht "Danke für Ihren Einkauf")
+* zahlen per App
+* Kundenbefragung nach dem Einkauf
+
 
 
 ### Hilfen / Links
