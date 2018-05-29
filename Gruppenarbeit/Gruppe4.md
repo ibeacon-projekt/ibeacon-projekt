@@ -2,8 +2,10 @@
 
 ## Gruppe 4 - Wie können Beacons in Logistikunternehmen genutzt werden?
 
-* Bullet Point abc
-* Bullet Point xyz
+* Lokalisierung der Ware in der Lagerhalle durch Austattung der Ware mit Beacon
+* Mengenerfasssung bei ein- und ausgehender Ware -> Mittels Beacons 
+* Warenverfolgung für Kunden 
+* Zum Zeiterfassen -> Beim Ein und Ausgehen mithilfe von Beacons
 
 
 ### Hilfen / Links
