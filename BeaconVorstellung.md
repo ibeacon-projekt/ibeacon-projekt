@@ -12,6 +12,12 @@ ____
 ____
 ____
 
+![Beacon Einstieg](https://upload.wikimedia.org/wikipedia/commons/3/37/John_Lynn_-_Smeaton%27s_Eddystone_Lighthouse.jpg)
+____
+____
+____
+____
+
 ![Intro](Bilder/1_Einstieg.png)
 
 ____
