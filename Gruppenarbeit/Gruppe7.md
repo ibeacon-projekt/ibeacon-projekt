@@ -2,9 +2,10 @@
 
 ## Gruppe 7 - Vergleichen sie einen billigen mit einem teuren iBeacon 
 
+* Die billigen haben eine geringere Signalreichweite, Akku laufzeit 1 Jahr
+* Das teurere hat Integrierter Temperatur, Beschleunigungsmesser, Licht Sensoren und energie effizienter. Akku laufzeit 2 Jahre 
 
-* Bullet Point abc
-* Bullet Point xyz
+
 
 
 ### Hilfen / Links
