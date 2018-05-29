@@ -59,8 +59,8 @@ Dem Beacon.
     - Hier sehen wir verschiedene Arten von Datenübertragung in Zusammenhang mit der Akkulaufzeit und der möglichen Entfernung.
       Wie ihr sicher noch von letzter Woche wisst, ist RFID eine scannbare und damit sehr nahe Form der Datenübertragung via 
       Radiowellen.
-      Das ihr hoffentlich noch nie versucht habt eure Thoska stromtechnisch aufzuladen liegt schlicht daran, dass der RFID Chip sich bei 
-      jeder Interaktion mit einem Scangerät erneut auflädt. Der Akkuverbrauch ist also quasi nicht gegeben.
+      Ein Akkuverbrauch des Chips ist quasi nicht gegeben, da sich der RFID Chip bei 
+      jeder Interaktion mit einem Scangerät erneut auflädt.
       
       Auf der ganz anderen Seite haben wir das GPS, das „Global Positioning System“. 
       Wie die meisten von euch wissen werden funktioniert das via Satellitensignalen und damit auf riesige Entfernung relativ genau - 
@@ -77,12 +77,12 @@ Die Beacons senden auf Basis der sogenannten BLE-Technik. (Bluetooth-Low-Energy)
       Um dieses Signal überhaupt empfangen zu können benötigt ihr entsprechende Apps auf euren Handys.
       In unserem Beispiel die App des Stadions.
       Diese App sendet die empfangenen Signale und damit eure Entfernung zu den einzelnen Beacons zu einem Server, der diese dann 
-      verarbeitet und eure Position bestimmen kann. Ihr seht, je mehr Beacons umso genauer die Verarbeitung.
+      verarbeitet und eure Position bestimmen kann. Ihr seht, je mehr Beacons umso genauer die Verarbeitung, sogar dreidimensional.
       
       So könnt ihr nach wenigen Sekunden im Stadion direkt via App zu eurem Sitzplatz geführt werden.
       Beacons können euch auch darauf aufmerksam machen, dass noch ein besserer Platz zur Verfügung steht der nicht weit von eurem 
       entfernt ist.
-Oder euch zu einem anderen Hotdog-Stand schicken, wenn bei einem die Hotdogs ausgehen.
+Oder euch zu einem anderen Bratwurst-Stand schicken, wenn bei einem die Bratwurst ausgehen.
 
 An sich bringen Beacons etliche marketingtechnische und besonders servicetechnische Vorteile mit sich.
       
