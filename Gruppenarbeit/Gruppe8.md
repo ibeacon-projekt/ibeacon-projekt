@@ -2,7 +2,7 @@
 
 ## Gruppe 8 - Welche Nachteile / Risiken besitzen Beacons
 
-
+* Installation kostspielig
 * Probleme mit der Reichweite der beacons aufgrund von Hindernissen, wie bspw. Wände oder Glasscheiben
 * Überschneidungen von Wlan- und Bluetooth-Signalen
 * Begrenzte Akkulaufzeit
