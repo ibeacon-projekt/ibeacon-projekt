@@ -13,11 +13,13 @@
 
 * Viele Anwendungsmöglichkeiten - positiv vorallem für den "Offline Handel"
 
-* Indoor-GPS nur bedingt Möglich
+* Indoor-GPS nur bedingt möglich
 
+* Bluetooth muss eingeschalten sein - App zum verarbeiten der Signale wird benötigt
 
+*
 
-
+*
 
 Mit folgendem Link könnt ihr den Text dieser Datei als PDF erstellen lassen und anschließend ausdrucken:
 
