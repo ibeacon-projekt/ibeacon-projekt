@@ -6,6 +6,8 @@
 * Probleme mit der Reichweite der beacons aufgrund von Hindernissen, wie bspw. Wände oder Glasscheiben
 * Überschneidungen von Wlan- und Bluetooth-Signalen
 * Begrenzte Akkulaufzeit
+* Datenschutz nicht vollständig gewährleistet
+* Push-Benachrichtigungen können als Spam empfunden werden
 
 
 ### Hilfen / Links
