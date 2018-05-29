@@ -2,7 +2,7 @@
 
 Learning session für das Modul eCommerce 2018 @ Uni Jena.
 
-![Beacon Einstieg](https://upload.wikimedia.org/wikipedia/commons/3/37/John_Lynn_-_Smeaton%27s_Eddystone_Lighthouse.jpg)
+![Beacon Roadmap](Bilder/0_Roadmap.jpg)
 
 ## Road map
 * 10 Minuten Things you need to know about Beacons (Theo)
