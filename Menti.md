@@ -10,7 +10,7 @@ via [Menti](https://www.menti.com/)
 * Kann ein Beacon Daten empfangen?
 
 A) Ja
-B) Nein
+B) __Nein__
 C) Modellabhängig
 
 * Die Reichweite von Beacons beträgt ungefähr...
@@ -18,4 +18,4 @@ C) Modellabhängig
 A) 0-1 m
 B) 2-5 m
 C) 2-10 m
-D) Keine pauschale Angabe möglich
+D) __Keine pauschale Angabe möglich__
