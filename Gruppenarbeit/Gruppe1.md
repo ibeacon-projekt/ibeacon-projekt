@@ -6,6 +6,12 @@
 * Bullet Point abc
 * Bullet Point xyz
 
+* helfen Besuchern sich im Museum zurechtzufinden
+* New York Guggenheim Museum - NearMe App, zeigt Videos, Fotos, Infos wenn Besucher nahe einem gewissen Beacon sind
+* Spielerisches Erleben des Museums - Schnitzeljagd
+* eigene Touren erstellen und auf sozialen Netzwerken teilen
+
+
 
 ### Hilfen / Links
 
