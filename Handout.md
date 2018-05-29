@@ -2,12 +2,22 @@
 
 ![Beacon-Take-Away](Bilder/6_TakeAway.png)
 
-## Auf einen Blick
+## Take - Home - Messages
 
-* TX
-* <= 5m
-* Marketing Gadget
-* Kein echtes Indoor-GPS
+
+* Verschiedene Ausführungen 
+
+* Einsteiger Beacons <= 5m
+
+* Nur Senden - kein Empfangen 
+
+* Viele Anwendungsmöglichkeiten - positiv vorallem für den "Offline Handel"
+
+* Indoor-GPS nur bedingt Möglich
+
+
+
+
 
 Mit folgendem Link könnt ihr den Text dieser Datei als PDF erstellen lassen und anschließend ausdrucken:
 
