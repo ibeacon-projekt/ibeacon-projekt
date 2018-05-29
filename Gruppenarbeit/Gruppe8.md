@@ -3,8 +3,9 @@
 ## Gruppe 8 - Welche Nachteile / Risiken besitzen Beacons
 
 
-* Bullet Point abc
-* Bullet Point xyz
+* Probleme mit der Reichweite der beacons aufgrund von Hindernissen, wie bspw. Wände oder Glasscheiben
+* Überschneidungen von Wlan- und Bluetooth-Signalen
+* Begrenzte Akkulaufzeit
 
 
 ### Hilfen / Links
